@@ -1,0 +1,22 @@
+Works Cited
+
+HTML Canvas & printing onto Canvas
+https://www.w3schools.com/html/html5_canvas.asp
+
+Arrays, Push, .fill
+https://www.w3schools.com/jsref/jsref_push.asp
+
+"? Operator" & Conditional Operators
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+
+"For Each" Objects
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+
+Information Regarding Rotation Logic of Tetris Pieces
+http://cslibrary.stanford.edu/112/Tetris-Architecture.html
+
+RGB Colors
+https://www.w3schools.com/colors/colors_rgb.asp
+
+requestAnimationFrame Function
+https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame

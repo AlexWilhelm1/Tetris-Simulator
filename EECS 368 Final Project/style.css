@@ -1,0 +1,39 @@
+body
+{
+  background: orange;
+  font-family: arial;
+  margin: 0;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+h1
+{
+  color: white;
+}
+
+p
+{
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0px 10px 10px 10px;
+  background-color: white;
+  color: black;
+  font-family: arial
+  font-size: 22pt;
+}
+
+header
+{
+background: #3385FF;
+color: white;
+padding: 0px 0px;
+}
+
+canvas
+{
+  border: solid  #3385FF;
+  height: 500;
+}
